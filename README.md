@@ -17,3 +17,7 @@ Video recording:
 https://www.youtube.com/watch?v=2aOCv3kXF4w
 
 Slides:
+https://github.com/astrastefania/bigdive_pythonshow/blob/master/BIGDIVE_pythonshow.pdf
+
+Thanks for attending, feel free to contact me stefania.delprete@top-ix.org  
+or as astrastefania everywhere!
